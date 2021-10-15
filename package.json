@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-plugin-ambientlight",
+  "name": "@vraktion/capacitor-plugin-ambientlight",
   "version": "0.0.1",
   "description": "get ambient light sensor data of smartphone",
   "main": "dist/plugin.cjs.js",
